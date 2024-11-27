@@ -2,7 +2,7 @@
 
 Veeery basic (re)studies
 
-I'll be using this every time I feel the need to study or review JS in my lifetime
+I'll be using this every time I feel the need to study or review JavaScript in my lifetime
 
 
 
